@@ -1,0 +1,39 @@
+body{
+    height: 100%;
+    width: 100%;
+}
+.container h1{
+    text-align: center;
+    padding-top: 20px;
+    
+}
+
+
+.container{
+    background-color: rgb(224, 213, 201);
+    position: absolute;
+    width: 400px;
+    border-radius: 12px;
+    height: 445px;
+}
+
+.row{
+    text-align: center;
+    margin: 7px;
+    
+}
+.row input{
+    margin: 0;
+    padding: 10px 38px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.button{
+    width: 55px;
+    height: 50px;
+    padding: 12px;
+    margin: 2px;
+    border-radius: 5px solid black;
+    cursor: pointer;
+    font-size: x-large;
+}
